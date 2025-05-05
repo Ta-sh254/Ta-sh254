@@ -18,8 +18,56 @@ UI/UX DESIGN PLANNING
 - 📝 Booking system
 - 🔗 User authentication
 
-
 - *A user-friendly design is essential to ensure efficient design guides that runs smoothly throughout the reservation process to customers satisfaction*
+  
+  🎨 *Color Styles*
+
+Primary: #FF5A5F, #FFFFFF, #34967C, #E6E6E6, #EAEAEA, #E9E9E9, #F3F0F0
+
+Secondary: #008489, #808993, #444444, #808993, #929292, #000000, #161117, #222222
+
+
+   *Typography*
+
+Primary Font: Quicksand, Weight (500) (600) (700), size "20px" "31px", Line height "35px" "100%", Horizontal alignment (right)
+
+ Importance of identifying design properties
+ - Streamlining design iterations
+ - Improving communication
+ - Ensuring design consistency
+ - facilitating accurate development
+
+   PROJECT ROLES & RESPONSIBILITY
+
+   *Project manager*
+   - Oversees timeline, co-ordinates team and manages deliverables
+
+   *Frontend Developers*
+- Implements UI components and ensures responsive design
+
+    *Backend Developers*
+- Builds APIs, manages database, implements business logic
+
+   *Designers*
+ - Creates mockups, maintains design system, ensures UX quality
+
+    *QA/Testers*
+- Writes test cases, performs testing, reports bugs
+
+  *DevOps Engineers*
+- Manages deployment, CI/CD pipeline, server infrastructure
+
+   *Product Owner*
+- Defines requirements, prioritizes features, represents stakeholders
+
+   *Scrum Master*
+- Facilitates agile processes, removes blockers, organizes meetings
+
+  UI COMPONENTS PATTERNS
+
+ - *Property Card* - Create a visual appealing display of a concise summary of an individual property listing, typically used in search results, featured listings sections, or category pages. Designed to be scannable and entice users to click for more details.
+
+  
 <!---
 Ta-sh254/Ta-sh254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
